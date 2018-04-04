@@ -25,7 +25,7 @@ namespace FireCrypt2
         public bool Encrypt;
 
         private GifImage gifImage = null;
-        private string filePath = @"C:\Users\Jeremy\Desktop\ExampleAnimation.gif";
+        private string filePath = @"";
 
         public Form1()
         {
